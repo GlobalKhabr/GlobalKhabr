@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**GlobalKhabr/GlobalKhabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Roman and I'm backend software engineer and CEO of IT company. I'm from San Francisco, but born in Russia. We are mainly engaged in the development of large information systems, but also bots for messengers.
 
-Here are some ideas to get you started:
+### Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-Webstorm-informational?style=flat-square&logo=webstorm&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-JS-informational?style=flat-square&logo=typescript&logoColor=white&color=5194f0)
+
+### Contacts
+
+If you have any suggestions or questions, you can contact me in the Discord (Dolbmarin#3484).
