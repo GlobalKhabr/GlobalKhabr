@@ -8,7 +8,8 @@ My name is Roman and I'm backend software engineer and CEO of IT company. I'm fr
 ![](https://img.shields.io/badge/Editor-Webstorm-informational?style=flat-square&logo=webstorm&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-JS-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JS-informational?style=flat-square&logo=typescript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-TS-informational?style=flat-square&logo=typescript&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Run-NodeJS-informational?style=flat-square&logo=nodejs&logoColor=white&color=5194f0)
 
 ### Contacts
 
