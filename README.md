@@ -13,4 +13,4 @@ My name is Roman and I'm backend software engineer and CEO of IT company. I'm fr
 
 ### Contacts
 
-If you have any suggestions or questions, you can contact me in the Discord (Dolbmarin#3484).
+If you have any suggestions or questions, you can contact to me in the Discord (Dolbmarin#3484).
